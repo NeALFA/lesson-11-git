@@ -1,0 +1,12 @@
+@import "command.css";
+
+h1 {
+    font-size: 40px;
+    color: greenyellow;
+    text-align: center;
+}
+
+p {
+    font-style: 50px;
+    color: red;
+}
